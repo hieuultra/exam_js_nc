@@ -1,0 +1,32 @@
+{
+  "product": [
+    {
+      "name": "ao da ",
+      "image": "https://th.bing.com/th/id/OIF.llg21TZANRrrPSik1Wq2Bg?w=151&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "cat": "2",
+      "price": "890",
+      "id": "dd48"
+    },
+    {
+      "name": "quan",
+      "image": "https://th.bing.com/th/id/OIF.WGwYwND5HYqzEklulTTkBg?w=203&h=204&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "cat": "1",
+      "price": "2999",
+      "id": "41ca"
+    },
+    {
+      "id": "95ea",
+      "name": "ao dep",
+      "image": "https://th.bing.com/th/id/R.e759ad5128bf992764f2694d77979326?rik=0vbzC4ElJgU%2bRA&pid=ImgRaw&r=0",
+      "cat": "1",
+      "price": "349"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "uname": "admin",
+      "pass": "1234"
+    }
+  ]
+}
